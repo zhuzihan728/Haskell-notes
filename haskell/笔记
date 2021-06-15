@@ -1,0 +1,32 @@
+
+functional language
+write functions to process data
+
+no state changes (no variable only name for data)
+
+
+infix function: 
+prefix functiion: 
+succ 4   == 4+1, succ has higher priority than *
+cons: add an element to the head of a list
+
+lost comprehension 从后向前翻译
+tuple vs list:
+tuple is fixed, can have data of different types.
+when one crestes a tuple, it has a unique type.
+
+
+type:
+Int
+Float
+Double
+Bool
+Char
+[一个type就好]
+(type，type，type，type)
+
+x :: y == x has type of y
+
+typeclasses: defines behaviors of a function.
+
+
